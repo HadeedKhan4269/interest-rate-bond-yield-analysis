@@ -73,13 +73,13 @@ This project uses:
 2. Install the required packages:
 
 ```bash
-pip install -r requirements.txt
+python -m pip install -r requirements.txt
 ```
 
 3. Run the Streamlit app:
 
 ```bash
-streamlit run app.py
+python -m streamlit run app.py
 ```
 
 ## Project Files
