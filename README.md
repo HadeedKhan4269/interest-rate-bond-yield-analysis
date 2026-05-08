@@ -26,6 +26,15 @@ The main questions were:
 - openpyxl
 - Excel
 
+## Dashboard Preview
+
+### Country Analysis
+
+![Country Analysis Dashboard](screenshots/dashboard-country-analysis.png.png)
+
+### Cross-Country Comparison
+
+![Cross-Country Comparison Dashboard](screenshots/cross-country-comparison.png.png)
 ## Features
 
 - Interactive country selection
